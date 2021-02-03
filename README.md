@@ -1,5 +1,5 @@
 # Highball
-My own repository with my own projects, whether it'd be from class or personal. Hoping to add more projects I've made on my own here.
+My own repository with my own projects, whether it'd be from class or personal. Hoping to add more projects in the near future.
 
 Current projects finished:
 
